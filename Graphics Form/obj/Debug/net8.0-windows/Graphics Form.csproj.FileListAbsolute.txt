@@ -1,0 +1,32 @@
+C:\Users\as591\source\repos\Graphics Form\Graphics Form\bin\Debug\net8.0-windows\Graphics Form.exe
+C:\Users\as591\source\repos\Graphics Form\Graphics Form\bin\Debug\net8.0-windows\Graphics Form.deps.json
+C:\Users\as591\source\repos\Graphics Form\Graphics Form\bin\Debug\net8.0-windows\Graphics Form.runtimeconfig.json
+C:\Users\as591\source\repos\Graphics Form\Graphics Form\bin\Debug\net8.0-windows\Graphics Form.dll
+C:\Users\as591\source\repos\Graphics Form\Graphics Form\bin\Debug\net8.0-windows\Graphics Form.pdb
+C:\Users\as591\source\repos\Graphics Form\Graphics Form\obj\Debug\net8.0-windows\Graphics Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\as591\source\repos\Graphics Form\Graphics Form\obj\Debug\net8.0-windows\Graphics Form.AssemblyInfoInputs.cache
+C:\Users\as591\source\repos\Graphics Form\Graphics Form\obj\Debug\net8.0-windows\Graphics Form.AssemblyInfo.cs
+C:\Users\as591\source\repos\Graphics Form\Graphics Form\obj\Debug\net8.0-windows\Graphics Form.csproj.CoreCompileInputs.cache
+C:\Users\as591\source\repos\Graphics Form\Graphics Form\obj\Debug\net8.0-windows\Graphics Form.dll
+C:\Users\as591\source\repos\Graphics Form\Graphics Form\obj\Debug\net8.0-windows\refint\Graphics Form.dll
+C:\Users\as591\source\repos\Graphics Form\Graphics Form\obj\Debug\net8.0-windows\Graphics Form.pdb
+C:\Users\as591\source\repos\Graphics Form\Graphics Form\obj\Debug\net8.0-windows\Graphics Form.genruntimeconfig.cache
+C:\Users\as591\source\repos\Graphics Form\Graphics Form\obj\Debug\net8.0-windows\ref\Graphics Form.dll
+C:\Users\as591\source\repos\Graphics Form\Graphics Form\obj\Debug\net8.0-windows\Graphics_Form.Form1.resources
+C:\Users\as591\source\repos\Graphics Form\Graphics Form\obj\Debug\net8.0-windows\Graphics Form.csproj.GenerateResource.cache
+C:\Users\as591\OneDrive\Desktop\Graphics Form\bin\Debug\net8.0-windows\Graphics Form.exe
+C:\Users\as591\OneDrive\Desktop\Graphics Form\bin\Debug\net8.0-windows\Graphics Form.deps.json
+C:\Users\as591\OneDrive\Desktop\Graphics Form\bin\Debug\net8.0-windows\Graphics Form.runtimeconfig.json
+C:\Users\as591\OneDrive\Desktop\Graphics Form\bin\Debug\net8.0-windows\Graphics Form.dll
+C:\Users\as591\OneDrive\Desktop\Graphics Form\bin\Debug\net8.0-windows\Graphics Form.pdb
+C:\Users\as591\OneDrive\Desktop\Graphics Form\obj\Debug\net8.0-windows\Graphics_Form.Form1.resources
+C:\Users\as591\OneDrive\Desktop\Graphics Form\obj\Debug\net8.0-windows\Graphics Form.csproj.GenerateResource.cache
+C:\Users\as591\OneDrive\Desktop\Graphics Form\obj\Debug\net8.0-windows\Graphics Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\as591\OneDrive\Desktop\Graphics Form\obj\Debug\net8.0-windows\Graphics Form.AssemblyInfoInputs.cache
+C:\Users\as591\OneDrive\Desktop\Graphics Form\obj\Debug\net8.0-windows\Graphics Form.AssemblyInfo.cs
+C:\Users\as591\OneDrive\Desktop\Graphics Form\obj\Debug\net8.0-windows\Graphics Form.csproj.CoreCompileInputs.cache
+C:\Users\as591\OneDrive\Desktop\Graphics Form\obj\Debug\net8.0-windows\Graphics Form.dll
+C:\Users\as591\OneDrive\Desktop\Graphics Form\obj\Debug\net8.0-windows\refint\Graphics Form.dll
+C:\Users\as591\OneDrive\Desktop\Graphics Form\obj\Debug\net8.0-windows\Graphics Form.pdb
+C:\Users\as591\OneDrive\Desktop\Graphics Form\obj\Debug\net8.0-windows\Graphics Form.genruntimeconfig.cache
+C:\Users\as591\OneDrive\Desktop\Graphics Form\obj\Debug\net8.0-windows\ref\Graphics Form.dll
